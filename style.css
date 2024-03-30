@@ -29,7 +29,7 @@ body {
   flex-direction: column;
   border-radius: 10px;
   box-shadow: 0 0 0 8px rgba(255, 255, 255, 0.2);
-    filter: drop-shadow(10px 8px 2px rgba(0,0,0,0.7));
+    filter: drop-shadow(10px 8px 2px rgba(0,0,0,0.4));
 }
 
 .PastBrunch {
@@ -40,7 +40,7 @@ body {
   top: 10px;
   z-index: 1;
   background-color: transparent;
-  filter: drop-shadow(10px 10px 2px rgba(0,0,0,0.6));
+  filter: drop-shadow(10px 10px 2px rgba(0,0,0,0.3));
 }
 
 .deleted {
@@ -57,7 +57,7 @@ body {
   top: 10px;
   z-index: 1;
   background-color: transparent;
-  filter: drop-shadow(10px 8px 2px rgba(0,0,0,0.7));
+  filter: drop-shadow(10px 8px 2px rgba(0,0,0,0.4));
 }
 
 .card4 {
