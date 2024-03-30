@@ -10,7 +10,7 @@ body {
   background-repeat: repeat-y repeat-x;
   background-position: center;
   background-attachment: fixed;
-  min-height: 100vh;
+  
   display: grid;
   flex-wrap: wrap;
   padding: 0px;
